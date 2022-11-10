@@ -23,7 +23,7 @@ const featuresData = [
 
 const Features = () => {
   return (
-    <div className="gpt3__features section__padding">
+    <div className="gpt3__features section__padding" id="features">
       <div className="gpt3__features-heading">
         <h1 className="gradient__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis veniam eos veritatis, possimus illum harum deserunt.</h1>
         <p>Lorem ipsum dolor sit amet consectetur.</p>
